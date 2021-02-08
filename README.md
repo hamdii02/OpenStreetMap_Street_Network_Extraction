@@ -27,3 +27,4 @@ for the best route to follow to reach a destination. The proposed
 routing approach takes into account the mobility of IoT devices
 and may update the recommended route regularly by repeating
 the process, as mentioned earlier.
+==> In this Github repository we share the street network creation using the OpenStreetMap API.
