@@ -1,6 +1,6 @@
 # OpenStreetMap_Street_Network_Extraction
-##
-##{In this paper, we propose a smart navigation framework
+https://arxiv.org/abs/2101.09539
+In this paper, we propose a smart navigation framework
 intending to determine for pedestrians safe routing to bypass
 areas where the risk of COVID-19 transmission is high. In
 other words, the framework recommends a pedestrian walking
@@ -26,4 +26,4 @@ deliver the trajectories to the user, e.g., via a mobile application
 for the best route to follow to reach a destination. The proposed
 routing approach takes into account the mobility of IoT devices
 and may update the recommended route regularly by repeating
-the process, as mentioned earlier.}
+the process, as mentioned earlier.
